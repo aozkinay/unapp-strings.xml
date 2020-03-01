@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Appar: %d/%d"</string>
+    <string name="loading">"Laddar"</string>
+    <string name="remove_apps_message">"Är du säker på att du vill avinstallera %d app(ar)?"</string>
+    <string name="sort">"Sortera"</string>
+    <string name="size">"Storlek"</string>
+    <string name="ascending">"Stigande"</string>
+    <string name="descending">"Fallande"</string>
+    <string name="uninstall">"Avinstallera"</string>
+    <string name="uninstall_n">"Avinstallera (%d)"</string>
+    <string name="app_icon">"App ikon"</string>
+    <string name="system_app">"system app"</string>
+    <string name="application_id">"Applikations id"</string>
+    <string name="info">"Info"</string>
+    <string name="copied">"%s kopierad till urklipp"</string>
+    <string name="settings">"Inställningar"</string>
+    <string name="use_dark_theme">"Använd mörkt tema"</string>
+    <string name="hide_system_apps">"Göm systemappar"</string>
+    <string name="premium_feature">"Premium funktion"</string>
+    <string name="upgrade">"Uppgradera %s"</string>
+    <string name="error_cant_upgrade">"Kan inte uppgradera till Premium. Error %d."</string>
+    <string name="translate">"Översätt"</string>
+    <string name="help_translate_app">"Hjälp till att översätta appen"</string>
+    <string name="rate_this_app">"Lämna omdöme om appen"</string>
+    <string name="show_apk_size">"Visa APK storlek"</string>
+    <string name="show_apk_size_mb">"Visa APK storlek i Mb"</string>
+    <string name="apps_not_found">"Apparna hittade inte"</string>
+    <string name="premium_feature_msg">"Uppgradera till Premium hjälper oss att utveckla appen och låser upp mörkt tema"</string>
+    <string name="privacy_policy">"Integritetspolicy"</string>
+    <string name="installation_date">"Installations datum"</string>
+    <string name="api_level">"API nivå (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Kan inte avinstallera systemappar"</string>
+    <string name="uninstall_by_swiping">"Avinstallera genom att svepa"</string>
+    <string name="swipe_right_left">"Svep från höger till vänster"</string>
+    <string name="content_description_select">Välj</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Εφαρμογές: %d/%d"</string>
+    <string name="loading">"Φόρτωση"</string>
+    <string name="remove_apps_message">"Είστε βέβαιοι ότι θέλετε να απεγκαταστήσετε %d εφαρμογές;"</string>
+    <string name="sort">"Ταξινόμηση"</string>
+    <string name="size">"Μέγεθος"</string>
+    <string name="ascending">"Αύξουσα"</string>
+    <string name="descending">"Φθίνουσα"</string>
+    <string name="uninstall">"Κατάργηση εγκατάστασης"</string>
+    <string name="uninstall_n">"Κατάργηση εγκατάστασης (%d)"</string>
+    <string name="app_icon">"Εικονίδιο εφαρμογής"</string>
+    <string name="system_app">"εφαρμογή συστήματος"</string>
+    <string name="application_id">"Αναγνωριστικό εφαρμογής"</string>
+    <string name="info">"Πληροφορίες"</string>
+    <string name="copied">"%s αντιγράφτηκε στο πρόχειρο"</string>
+    <string name="settings">"Ρυθμίσεις"</string>
+    <string name="use_dark_theme">"Χρήση σκοτεινού θέματος"</string>
+    <string name="hide_system_apps">"Απόκρυψη εφαρμογών συστήματος"</string>
+    <string name="premium_feature">"Premium Χαρακτηριστικό"</string>
+    <string name="upgrade">"Αναβάθμιση %s"</string>
+    <string name="error_cant_upgrade">"Δεν είναι δυνατή η αναβάθμιση σε Premium έκδοση. Σφάλμα %d."</string>
+    <string name="translate">"Μετάφραση"</string>
+    <string name="help_translate_app">"Βοηθείστε στη μετάφραση της εφαρμογής"</string>
+    <string name="rate_this_app">"Βαθμολογήστε την εφαρμογή"</string>
+    <string name="show_apk_size">"Εμφάνιση μεγέθους APK"</string>
+    <string name="show_apk_size_mb">"Εμφάνιση μεγέθους APK σε Mb"</string>
+    <string name="apps_not_found">"Οι εφαρμογές δεν βρέθηκαν"</string>
+    <string name="premium_feature_msg">"Η αναβάθμιση σε Premium έκδοση υποστηρίζει την ανάπτυξη της εφαρμογής και ξεκλειδώνει το σκοτεινό θέμα.
+
+Σας ευχαριστούμε για τη χρήση αυτής της εφαρμογής!"</string>
+    <string name="privacy_policy">"Πολιτική Απορρήτου"</string>
+    <string name="installation_date">"Ημερομηνία εγκατάστασης"</string>
+    <string name="api_level">"Επίπεδο API (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Δεν είναι δυνατή η απεγκατάσταση εφαρμογής συστήματος"</string>
+    <string name="uninstall_by_swiping">"Κατάργηση εφαρμογών με σύρσιμο"</string>
+    <string name="swipe_right_left">"Σύρετε από τα δεξιά προς τα αριστερά"</string>
+    <string name="content_description_select">Επιλέγω</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

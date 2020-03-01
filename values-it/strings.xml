@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Applicazioni: %d/%d"</string>
+    <string name="loading">"Caricamento in corso"</string>
+    <string name="remove_apps_message">"Sei sicuro di voler disinstallare %d app?"</string>
+    <string name="sort">"Ordina"</string>
+    <string name="size">"Dimensione"</string>
+    <string name="ascending">"Ascendente"</string>
+    <string name="descending">"Discendente"</string>
+    <string name="uninstall">"Disinstalla"</string>
+    <string name="uninstall_n">"Disinstalla (%d) "</string>
+    <string name="app_icon">"Icona dell'app"</string>
+    <string name="system_app">"App di sistema"</string>
+    <string name="application_id">"ID Applicazione"</string>
+    <string name="info">"Informazioni"</string>
+    <string name="copied">"%s copiato negli appunti"</string>
+    <string name="settings">"Impostazioni"</string>
+    <string name="use_dark_theme">"Usa il tema scuro"</string>
+    <string name="hide_system_apps">"Nascondi app di sistema"</string>
+    <string name="premium_feature">"Funzionalità Premium"</string>
+    <string name="upgrade">"Aggiorna %s"</string>
+    <string name="error_cant_upgrade">"Impossibile aggiornare a Premium. Errore %d."</string>
+    <string name="translate">"Traduci"</string>
+    <string name="help_translate_app">"Aiuta a tradurre l'app"</string>
+    <string name="rate_this_app">"Valuta questa applicazione"</string>
+    <string name="show_apk_size">"Mostra dimensioni APK"</string>
+    <string name="show_apk_size_mb">"Mostra la dimensione APK in Mb"</string>
+    <string name="apps_not_found">"App non trovata"</string>
+    <string name="premium_feature_msg">"L'aggiornamento a Premium supporta lo sviluppo dell'app e sblocca il tema scuro!
+
+Grazie per aver usato questa app!"</string>
+    <string name="privacy_policy">"Politica sulla Riservatezza"</string>
+    <string name="installation_date">"Data di installazione"</string>
+    <string name="api_level">"Livello API (%s) "</string>
+    <string name="cant_uinstall_sys_app">"Impossibile disinstallare app di sistema"</string>
+    <string name="uninstall_by_swiping">"Disinstalla con uno swipe"</string>
+    <string name="swipe_right_left">"Scorri da destra verso sinistra"</string>
+    <string name="content_description_select">Selezionare</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

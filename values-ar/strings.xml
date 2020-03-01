@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="apps_count">%d/%d التطبيقات: </string>
+    <string name="loading">"جار التحميل"</string>
+    <string name="remove_apps_message">"هل أنت متأكد من أنك تريد إلغاء تثبيت %d تطبيقات؟"</string>
+    <string name="sort">"نوع"</string>
+    <string name="name">"الإسم"</string>
+    <string name="size">"الحجم"</string>
+    <string name="ascending">"تصاعديا"</string>
+    <string name="descending">"تنازليا"</string>
+    <string name="uninstall">"ازالة"</string>
+    <string name="uninstall_n">"إلغاء التثبيت (%d)"</string>
+    <string name="app_icon">"ايقونة التطبيق"</string>
+    <string name="system_app">"تطبيق نظام"</string>
+    <string name="application_id">"هوية التطبيق"</string>
+    <string name="info">"معلومات"</string>
+    <string name="copied">"نسخ %s إلى الحافظة"</string>
+    <string name="settings">"خيارات"</string>
+    <string name="use_dark_theme">"الخلفية السوداء"</string>
+    <string name="hide_system_apps">"اخفاء تطبيقات النظام"</string>
+    <string name="premium_feature">"خصائص مدفوعة"</string>
+    <string name="upgrade">"ترقية %s"</string>
+    <string name="error_cant_upgrade">"لا يمكن الترقية إلى Premium. خطأ %d."</string>
+    <string name="translate">"ترجم"</string>
+    <string name="help_translate_app">"ساعد في ترجمة التطبيق"</string>
+    <string name="rate_this_app">"قيم هذا التطبيق"</string>
+    <string name="show_apk_size">"اظهر حجم التطبيق"</string>
+    <string name="show_apk_size_mb">"اظهر حجم التطبيق "</string>
+    <string name="apps_not_found">"لم يتم العثور على التطبيق"</string>
+    <string name="premium_feature_msg">"الترقية للنسخة المدفوعة تساعد تطوير التطبيق و تسمح لك باستخدام الخلفية السوداء.
+شكرا لإستخدامك التطبيق"</string>
+    <string name="privacy_policy">"شروط الخصوصية"</string>
+    <string name="installation_date">"تاريخ التثبيت"</string>
+    <string name="api_level">"مستوى واجهة برمجة التطبيقات (%s)"</string>
+    <string name="cant_uinstall_sys_app">"لا يمكن الغاء تثبيت تطبيقات النظام"</string>
+    <string name="uninstall_by_swiping">"الغاء التثبيت بواسطة السحب"</string>
+    <string name="swipe_right_left">"سحب من اليمين الى اليسار"</string>
+    <string name="content_description_select">تحديد</string>
+    <string name="message_sys_app_removal_not_supported">Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :(   Have a nice day!</string>
+    <string name="never_show_again">Never show again</string>
+    <string name="last_update">Last update</string>
+</resources>

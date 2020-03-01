@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"アプリ: %d/%d"</string>
+    <string name="loading">"読み込み中"</string>
+    <string name="remove_apps_message">"本当に%d個のアプリをアンインストールしますか？"</string>
+    <string name="sort">"並べ替え"</string>
+    <string name="size">"サイズ"</string>
+    <string name="ascending">"昇順"</string>
+    <string name="descending">"降順"</string>
+    <string name="uninstall">"アンインストール"</string>
+    <string name="uninstall_n">"アンインストール (%d)"</string>
+    <string name="app_icon">"アプリアイコン"</string>
+    <string name="system_app">"システムアプリ"</string>
+    <string name="application_id">"アプリケーションID"</string>
+    <string name="info">"情報"</string>
+    <string name="copied">"%sをクリップボードにコピーしました"</string>
+    <string name="settings">"設定"</string>
+    <string name="use_dark_theme">"ダークテーマを使用"</string>
+    <string name="hide_system_apps">"システムアプリを隠す"</string>
+    <string name="premium_feature">"プレミアム機能"</string>
+    <string name="upgrade">"アップグレード %s"</string>
+    <string name="error_cant_upgrade">"プレミアムへアップグレードできません。エラー: %d"</string>
+    <string name="translate">"翻訳"</string>
+    <string name="help_translate_app">"アプリの翻訳にご協力ください"</string>
+    <string name="rate_this_app">"アプリを評価"</string>
+    <string name="show_apk_size">"APKサイズを表示"</string>
+    <string name="show_apk_size_mb">"APKのサイズをMb単位で表示"</string>
+    <string name="apps_not_found">"アプリが見つかりません"</string>
+    <string name="premium_feature_msg">"プレミアムへアップグレードして、開発をサポートしつつダークテーマをアンロックしましょう。
+
+アプリをご利用いただきありがとうございます！"</string>
+    <string name="privacy_policy">"プライバシーポリシー"</string>
+    <string name="installation_date">"インストール日"</string>
+    <string name="api_level">"APIレベル (%s)"</string>
+    <string name="cant_uinstall_sys_app">"システムアプリはアンインストールできません"</string>
+    <string name="uninstall_by_swiping">"スワイプしてアンインストール"</string>
+    <string name="swipe_right_left">"右から左へスワイプ"</string>
+    <string name="content_description_select">選択する</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

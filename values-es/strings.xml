@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Apps: %d/%d"</string>
+    <string name="loading">"Cargando"</string>
+    <string name="remove_apps_message">"Estas seguro que quieres desinstalar %d app(s)?"</string>
+    <string name="sort">"Organizar"</string>
+    <string name="name">"Nombre"</string>
+    <string name="size">"Tamaño"</string>
+    <string name="ascending">"Menor a Mayor"</string>
+    <string name="descending">"Mayor a Menor"</string>
+    <string name="uninstall">"Desinstalar"</string>
+    <string name="uninstall_n">"Desinstalar (%d)"</string>
+    <string name="app_icon">"Icono"</string>
+    <string name="system_app">"App del Sistema"</string>
+    <string name="application_id">"ID"</string>
+    <string name="info">"Info"</string>
+    <string name="copied">"%s copiado"</string>
+    <string name="settings">"Configuración"</string>
+    <string name="use_dark_theme">"Usar tema oscuro"</string>
+    <string name="hide_system_apps">"Esconder apps del sistema"</string>
+    <string name="premium_feature">"Característica de Pago"</string>
+    <string name="upgrade">"Comprar %s"</string>
+    <string name="error_cant_upgrade">"No se realizo la compra. Error %d"</string>
+    <string name="translate">"Traducir"</string>
+    <string name="help_translate_app">"¡Ayuda a traducir!"</string>
+    <string name="rate_this_app">"Calificar App"</string>
+    <string name="show_apk_size">"Mostrar tamaño de la APK"</string>
+    <string name="show_apk_size_mb">"Mostrar tamaño de la APK en Mb"</string>
+    <string name="apps_not_found">"Aplicaciones no encontradas"</string>
+    <string name="premium_feature_msg">"¡Gracias por usar esta app!"</string>
+    <string name="privacy_policy">"Política de Privacidad"</string>
+    <string name="installation_date">"Fecha de Instalación"</string>
+    <string name="api_level">"Nivel de API (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Error al desinstalar app del sistema"</string>
+    <string name="uninstall_by_swiping">"Desinstalar deslizando"</string>
+    <string name="swipe_right_left">"Arrastra de la izquierda a la derecha."</string>
+    <string name="content_description_select">Seleccione</string>
+    <string name="never_show_again">Nunca lo muestres otra vez</string>
+    <string name="message_sys_app_removal_not_supported">¡Gracias por usar UnApp! Desafortunadamente, UnApp no admite la eliminación de aplicaciones del sistema (aplicaciones instaladas por el fabricante). :( \n\n ¡Que tengas un buen día!</string>
+    <string name="last_update">Última actualización</string>
+</resources>

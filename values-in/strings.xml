@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Aplikasi : %d/%d"</string>
+    <string name="loading">"Memuat"</string>
+    <string name="remove_apps_message">"Apakah anda yakin akan menghapus %d aplikasi?"</string>
+    <string name="sort">"Sortir"</string>
+    <string name="size">"Ukuran"</string>
+    <string name="ascending">"Menanjak"</string>
+    <string name="descending">"Menurun"</string>
+    <string name="uninstall">"Hapus pemasangan"</string>
+    <string name="uninstall_n">"Hapus pemasangan (%d)"</string>
+    <string name="app_icon">"Ikon aplikasi"</string>
+    <string name="system_app">"aplikasi sistem"</string>
+    <string name="application_id">"Id aplikasi"</string>
+    <string name="info">"Info"</string>
+    <string name="copied">"%s tersalin ke clipboard"</string>
+    <string name="settings">"Setelan"</string>
+    <string name="use_dark_theme">"Gunakan tema gelap"</string>
+    <string name="hide_system_apps">"Sembunyikan aplikasi sistem"</string>
+    <string name="premium_feature">"Fitur Premium"</string>
+    <string name="upgrade">"Peningkatan %s"</string>
+    <string name="error_cant_upgrade">"Tidak dapat meningkatkan ke Premium. Error %d."</string>
+    <string name="translate">"Terjemahan"</string>
+    <string name="help_translate_app">"Bantu menerjemahkan aplikasi"</string>
+    <string name="rate_this_app">"Rate aplikasi ini"</string>
+    <string name="show_apk_size">"Tunjukkan ukuran APK"</string>
+    <string name="show_apk_size_mb">"Tunjukkan ukuran APK dalam Mb"</string>
+    <string name="apps_not_found">"Aplikasi tidak ditemukan"</string>
+    <string name="premium_feature_msg">"Tingkatkan ke Premium untuk membantu pembangunan aplikasi dan membuka setelan tema gelap.
+
+Terima kasih telah menggunakan aplikasi ini!"</string>
+    <string name="privacy_policy">"Kebijakan Privasi"</string>
+    <string name="installation_date">"Tanggal pemasangan"</string>
+    <string name="api_level">"Level API (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Tidak dapat menghapus aplikasi sistem"</string>
+    <string name="uninstall_by_swiping">"Menghapus dengan swiping"</string>
+    <string name="swipe_right_left">"Swipe dari kanan ke kiri"</string>
+    <string name="content_description_select">Pilih</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

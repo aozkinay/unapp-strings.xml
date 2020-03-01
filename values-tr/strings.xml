@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please don't ignore %d. It will be replaced with number of apps. -->
+    <string name="apps_count">"Uygulamalar: %d/%d"</string>
+    <string name="loading">"Yükleniyor"</string>
+
+    <!-- Please don't ignore %d. It will be replaced with number of apps. -->
+    <string name="remove_apps_message">"%d uygulamayı kaldırmak istediğinize emin misiniz?"</string>
+    <string name="sort">"Çeşit"</string>
+    <string name="size">"Boyut"</string>
+    <string name="ascending">"Artan"</string>
+    <string name="descending">"Azalan"</string>
+
+    <!-- Kaldır -->
+    <string name="uninstall">"Kaldır"</string>
+
+    <!-- Please don't ignore %d. It will be replaced with number of apps. -->
+    <string name="uninstall_n">"Bu %d uygulamayı kaldır"</string>
+    <string name="app_icon">"Uygulama simgesi"</string>
+
+    <!-- sistem uygulaması -->
+    <string name="system_app">"sistem uygulaması"</string>
+    <string name="application_id">"Uygulama Kimliği"</string>
+    <string name="info">"Bilgi"</string>
+
+    <!-- Please don't ignore %s. It will be replaced with application id. -->
+    <string name="copied">"%s panoya kopyalandı"</string>
+    <string name="settings">"Ayarlar"</string>
+    <string name="use_dark_theme">"Koyu temayı kullan"</string>
+    <string name="hide_system_apps">"Sistem uygulamalarını gizle"</string>
+    <string name="premium_feature">"Premium Özellik"</string>
+
+    <!-- Please don't ignore %s. It will be replaced with price for the dark theme. -->
+    <string name="upgrade">"%s yükseltme"</string>
+
+    <!-- Please don't ignore %d. It will be replaced with error number. -->
+    <string name="error_cant_upgrade">"Premium’a yükseltme yapılamıyor. Hata %d"</string>
+    <string name="translate">"Çeviri"</string>
+    <string name="help_translate_app">"Uygulamanın çevirisine yardımcı olun"</string>
+    <string name="rate_this_app">"Bu uygulamayı oyla"</string>
+    <string name="show_apk_size">"APK boyutunu göster"</string>
+    <string name="show_apk_size_mb">"APK boyutunu Mb cinsinden göster"</string>
+    <string name="apps_not_found">"Uygulamalar bulunamadı"</string>
+    <string name="premium_feature_msg">"Premium'a yükseltme, uygulama geliştirmeyi destekler ve Karanlık Tema'nın kilidini açar. Bu uygulamayı kullandığınız için teşekkür ederiz!"</string>
+    <string name="privacy_policy">"Gizlilik Politikası"</string>
+    <string name="installation_date">"Kurulum tarihi"</string>
+    <string name="api_level">"API seviyesi (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Sistem uygulaması kaldırılamaz"</string>
+    <string name="uninstall_by_swiping">"Kaydırarak kaldır"</string>
+    <string name="swipe_right_left">"Sağdan sola doğru kaydırın"</string>
+    <string name="content_description_select">seçmek</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

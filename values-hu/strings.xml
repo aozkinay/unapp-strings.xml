@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Alkalmazások: %d/%d"</string>
+    <string name="loading">"Betöltés"</string>
+    <string name="remove_apps_message">"Tényleg el szeretne távolítani %d alkalmazást?"</string>
+    <string name="sort">"Rendezés"</string>
+    <string name="size">"Méret"</string>
+    <string name="ascending">"Növekvő"</string>
+    <string name="descending">"Csökkenő"</string>
+    <string name="uninstall">"Eltávolítás"</string>
+    <string name="uninstall_n">"(%d) eltávolítása"</string>
+    <string name="app_icon">"Alkalmazás ikonja"</string>
+    <string name="system_app">"Rendszeralkalmazás"</string>
+    <string name="application_id">"Alkalmazás azonosítója"</string>
+    <string name="info">"Információ"</string>
+    <string name="copied">"%s másolva a vágólapra"</string>
+    <string name="settings">"Beállítások"</string>
+    <string name="use_dark_theme">"Sötét téma használata"</string>
+    <string name="hide_system_apps">"Rendszeralkalmazások elrejtése"</string>
+    <string name="premium_feature">"Prémium funkció"</string>
+    <string name="upgrade">"%s frissítése"</string>
+    <string name="error_cant_upgrade">"Nem sikerült frissíteni a Prémiumra, mert %d"</string>
+    <string name="translate">"Fordítás"</string>
+    <string name="help_translate_app">"Segítsd az alkalmazás fordítását!"</string>
+    <string name="rate_this_app">"Értékeld az alkalmazást"</string>
+    <string name="show_apk_size">"APK méretének megjelenítése"</string>
+    <string name="show_apk_size_mb">"APK méretének megjelenítése MB-ban"</string>
+    <string name="apps_not_found">"Nem található alkalmazás"</string>
+    <string name="premium_feature_msg">"Ha frissítesz a Prémiumra, akkor használhatod a sötét témát, és segítheted az alkalmazás fejlesztését.
+
+Köszönjük!"</string>
+    <string name="privacy_policy">"Adatvédelmi irányelvek"</string>
+    <string name="installation_date">"Telepítési idő"</string>
+    <string name="api_level">"API szint (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Rendszeralkalmazás nem lehet eltávolítani"</string>
+    <string name="uninstall_by_swiping">"Eltávolítás csúsztatással"</string>
+    <string name="swipe_right_left">"Csúsztatás jobbról balra"</string>
+    <string name="content_description_select">választ</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

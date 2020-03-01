@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">Приложения: %d/%d</string>
+    <string name="loading">Загрузка списка приложений</string>
+    <string name="remove_apps_message">Вы действительно хотите удалить эти (%d) приложения?</string>
+    <string name="sort">Сортировка</string>
+    <string name="name">Имя</string>
+    <string name="size">Размер</string>
+    <string name="ascending">По возрастанию</string>
+    <string name="descending">По убыванию</string>
+    <string name="uninstall">Удалить</string>
+    <string name="uninstall_n">Удалить (%d)</string>
+    <string name="app_icon">Значок приложения</string>
+    <string name="system_app">системное приложение</string>
+    <string name="application_id">Идентификатор приложения</string>
+    <string name="info">Больше информации</string>
+    <string name="copied">%s скопировано в буфер обмена</string>
+    <string name="settings">Настройки</string>
+    <string name="use_dark_theme">Использовать темную тему</string>
+    <string name="hide_system_apps">Скрыть системные приложения</string>
+    <string name="premium_feature">Премиум-функция</string>
+    <string name="upgrade">Обновить %s</string>
+    <string name="error_cant_upgrade">Невозможно перейти на Premium. Ошибка %d.</string>
+    <string name="translate">Перевести</string>
+    <string name="help_translate_app">Помогите перевести приложение</string>
+    <string name="rate_this_app">Оценить это приложение</string>
+    <string name="show_apk_size">Показать размер APK</string>
+    <string name="show_apk_size_mb">Показать размер APK в Мб</string>
+    <string name="apps_not_found">​​Приложения не найдены</string>
+    <string name="premium_feature_msg">Обновление до Premium поддерживает разработку приложения и разблокирует больше функций. \n\nСпасибо!</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="installation_date">Дата установки</string>
+    <string name="api_level">Уровень API (%s)</string>
+    <string name="cant_uinstall_sys_app">Не удается удалить системное приложение</string>
+    <string name="uninstall_by_swiping">Свайпнуть для удаления</string>
+    <string name="swipe_right_left">Проведите пальцем справа налево</string>
+    <string name="content_description_select">Выбрать</string>
+    <string name="never_show_again">Не показывать снова</string>
+    <string name="message_sys_app_removal_not_supported">Спасибо за использование UnApp! К сожалению, UnApp не поддерживает удаление системных приложений (приложений, установленных производителем). :( \n\n Хорошего дня!</string>
+    <string name="last_update">Последнее обновление</string>
+</resources>

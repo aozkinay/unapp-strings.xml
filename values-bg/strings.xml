@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Приложения: %d/%d"</string>
+    <string name="loading">"Зарежда се"</string>
+    <string name="remove_apps_message">"Сигурни ли сте че искате да деинсталиране %d приложението/приложенията?"</string>
+    <string name="sort">"Подреди"</string>
+    <string name="size">"Големина"</string>
+    <string name="ascending">"Възходящо"</string>
+    <string name="descending">"Низходящо"</string>
+    <string name="uninstall">"Деинсталиране"</string>
+    <string name="uninstall_n">"Деинсталиране (%d)"</string>
+    <string name="app_icon">"Икона на приложението"</string>
+    <string name="system_app">"системно приложение"</string>
+    <string name="application_id">"ID на приложението"</string>
+    <string name="info">"Информация"</string>
+    <string name="copied">"%s копирано в буферната памет"</string>
+    <string name="settings">"Настройки"</string>
+    <string name="use_dark_theme">"Използвайте тъмна тема"</string>
+    <string name="hide_system_apps">"Скрий системните приложения"</string>
+    <string name="premium_feature">"Премиум екстра"</string>
+    <string name="upgrade">"Ъпгрейд %s"</string>
+    <string name="error_cant_upgrade">"Не може да се ъпгрейдне до премиум. Грешка %d"</string>
+    <string name="translate">"Превод"</string>
+    <string name="help_translate_app">"Помогнете за превода на приложението"</string>
+    <string name="rate_this_app">"Оценете това приложение"</string>
+    <string name="show_apk_size">"Покажи APK размера"</string>
+    <string name="show_apk_size_mb">"Покажи APK размера в Mb"</string>
+    <string name="apps_not_found">"Няма намерени приложения"</string>
+    <string name="premium_feature_msg">"Ъпгрейдването до Премиум поддържа разработката на приложението и отключва Тъмна Тема.
+
+Благодарим Ви че използвате това приложение!"</string>
+    <string name="privacy_policy">"Декларация за Поверителност"</string>
+    <string name="installation_date">"Дата на инсталацията"</string>
+    <string name="api_level">"Ниво на API (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Не може да се деинсталират системни приложения"</string>
+    <string name="uninstall_by_swiping">"Деинсталиране чрез приплъзване"</string>
+    <string name="swipe_right_left">"Плъзнете от дясно на ляво"</string>
+    <string name="content_description_select">Изберете</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>

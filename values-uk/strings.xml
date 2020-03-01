@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">Застосунків: %d/%d</string>
+    <string name="loading">Список застосунків завантажується</string>
+    <string name="remove_apps_message">Ви дійсно хочете видалити ці (%d) застосунки?</string>
+    <string name="sort">Сортування</string>
+    <string name="name">Ім\'я</string>
+    <string name="size">Розмір</string>
+    <string name="ascending">За зростанням</string>
+    <string name="descending">За спаданням</string>
+    <string name="uninstall">Видалити</string>
+    <string name="uninstall_n">Видалити (%d)</string>
+    <string name="app_icon">Значок програми</string>
+    <string name="system_app">системний застосунок</string>
+    <string name="application_id">Ідентифікатор програми</string>
+    <string name="info">Більше інформації</string>
+    <string name="copied">%s скопійовано до буфера обміну</string>
+    <string name="apps_not_found">Застосунків не знайдено</string>
+    <string name="settings">Налаштування</string>
+    <string name="use_dark_theme">Використовувати темну тему</string>
+    <string name="hide_system_apps">Сховати системні застосунки</string>
+    <string name="premium_feature">Преміум-функція</string>
+    <string name="premium_feature_msg">Оновлення до Premium підтримує розробку застосунку та розблоковує функцій. \n\nДякую!</string>
+    <string name="upgrade">Оновити %s</string>
+    <string name="error_cant_upgrade">Не вдається оновити до Premium. Помилка %d.</string>
+    <string name="translate">Перекласти</string>
+    <string name="help_translate_app">Допоможіть перекласти застосунок</string>
+    <string name="rate_this_app">Оцініть цей застосунок</string>
+    <string name="show_apk_size">Показати розмір APK</string>
+    <string name="show_apk_size_mb">Показати розмір файлу APK в Мб</string>
+    <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="swipe_right_left">Проведіть пальцем справа наліво</string>
+    <string name="uninstall_by_swiping">Провести пальцем для видалення</string>
+    <string name="cant_uinstall_sys_app">Неможливо видалити системний застосунок</string>
+    <string name="api_level">Рівень API (%s)</string>
+    <string name="installation_date">Дата встановлення</string>
+    <string name="content_description_select">Обрати</string>
+    <string name="never_show_again">Не показувати знову</string>
+    <string name="message_sys_app_removal_not_supported">Дякую, що користуєтесь UnApp! На жаль, UnApp не підтримує видалення системних програм (застосунків, встановлених виробником). :( \n\n Гарного дня! </string>
+    <string name="last_update">Останнє оновлення</string>
+</resources>

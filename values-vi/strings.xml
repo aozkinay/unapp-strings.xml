@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_count">"Ứng dụng: %d/%d"</string>
+    <string name="loading">"Đang tải…"</string>
+    <string name="remove_apps_message">"Bạn có chắc chắn muốn gỡ cài đặt %d ứng dụng?"</string>
+    <string name="sort">"Sắp xếp"</string>
+    <string name="size">"Kích cỡ"</string>
+    <string name="ascending">"Tăng dần"</string>
+    <string name="descending">"Giảm dần"</string>
+    <string name="uninstall">"Gỡ bỏ"</string>
+    <string name="uninstall_n">"Gỡ cài đặt (%d)"</string>
+    <string name="app_icon">"Biểu tượng ứng dụng"</string>
+    <string name="system_app">"Ứng dụng hệ thống"</string>
+    <string name="application_id">"ID ứng dụng"</string>
+    <string name="info">"Thông tin"</string>
+    <string name="copied">"Đã sao chép %s"</string>
+    <string name="settings">"Cài đặt"</string>
+    <string name="use_dark_theme">"Sử dụng chủ đề tối"</string>
+    <string name="hide_system_apps">"Ẩn ứng dụng hệ thống"</string>
+    <string name="premium_feature">"Tính năng cao cấp"</string>
+    <string name="upgrade">"Nâng cấp %s"</string>
+    <string name="error_cant_upgrade">"Lỗi %d! Không thể nâng cấp lên phiên bản cao cấp."</string>
+    <string name="translate">"Dịch"</string>
+    <string name="help_translate_app">"Giúp ứng dụng dịch"</string>
+    <string name="rate_this_app">"Đánh giá ứng dụng"</string>
+    <string name="show_apk_size">"Hiện kích cỡ APK"</string>
+    <string name="show_apk_size_mb">"Hiện kích cỡ APK (Mb)"</string>
+    <string name="apps_not_found">"Khồn tìm thấy ứng dụng"</string>
+    <string name="premium_feature_msg">"Nâng cấp lên phiên bản cáo cấp để hỗ trợ phát triển ứng dụng và mở khóa Chủ đề tối.
+
+Cảm ơn bạn đã sử dụng ứng dụng này!"</string>
+    <string name="privacy_policy">"Chính sách bảo mật"</string>
+    <string name="installation_date">"Ngày cài đặt"</string>
+
+    <!-- Please don't ignore %s parameter. It will be replaced with app's API level. -->
+    <string name="api_level">"Cấp độ API (%s)"</string>
+    <string name="cant_uinstall_sys_app">"Không thể gỡ bỏ ứng dụng hệ thống"</string>
+    <string name="uninstall_by_swiping">"Gỡ bỏ bằng cách vuốt"</string>
+    <string name="swipe_right_left">"Vuốt từ phải sang trái"</string>
+    <string name="content_description_select">Lựa chọn</string>
+    <string name="message_sys_app_removal_not_supported">"Thank you for using UnApp! Unfortunately, UnApp doesn`t support the removal of system apps (apps installed by the manufacturer). :( "</string>
+    <string name="never_show_again">Have a nice day!</string>
+    <string name="name">Name</string>
+    <string name="last_update">Last update</string>
+</resources>
